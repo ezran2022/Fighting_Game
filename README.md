@@ -26,7 +26,10 @@ and another thing here is that we can reset owr app and start again the battle b
 
 
 ![image](https://user-images.githubusercontent.com/103323625/185891189-f1852109-457b-4956-9f41-474eccb083aa.png)
+### Link
+https://fantastic-macaron-de24f0.netlify.app/
 
+### code
 
 ``` javascript
 
